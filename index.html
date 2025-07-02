@@ -37,7 +37,7 @@
             </p>
             <div class="text-center md:text-left mb-6">
               <a
-                href="https://github.com/TheGemDev/GDevelopRemoteCompanion/releases/latest/download/gdevelopremote.json"
+                id="download-btn"
                 download
                 class="inline-block bg-[#e3d9ff] text-[#3f2271] text-xl font-bold px-8 py-4 rounded-lg shadow-lg hover:brightness-90 transition transform hover:scale-105"
               >
@@ -172,5 +172,20 @@
         </p> -->
       </div>
     </div>
+    <script>
+      const queryParams = new URLSearchParams(window.location.search);
+      const version = queryParams.get("version");
+
+      const downloadBtn = document.getElementById("download-btn");
+      const baseUrl = "https://thegemdev.github.io/GDevelopRemoteCompanion";
+
+      const downloadUrl = version
+        ? `${baseUrl}/v${version}/gdevelop_remote_companion.json`
+        : `${baseUrl}/gdevelop_remote_companion.json`;
+
+      if (downloadBtn) {
+        downloadBtn.href = downloadUrl;
+      }
+    </script>
   </body>
 </html>

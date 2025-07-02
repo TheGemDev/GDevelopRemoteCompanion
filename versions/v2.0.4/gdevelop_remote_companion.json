@@ -1,0 +1,183 @@
+{
+  "author": "",
+  "category": "Third-party",
+  "extensionNamespace": "",
+  "fullName": "GDevelop Remote Companion",
+  "gdevelopVersion": "",
+  "helpPath": "",
+  "iconUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCAyNSAyNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTExLjY3ODkgMi43NzYxMUM5LjU2ODcyIDAuODUwOTU5IDYuODQxNjUgLTAuMTMwMDI5IDQgMC4wMTM4NUw0LjA3MTIgMS40NDQ2OEM2LjUzMzkyIDEuMzE5OTkgOC44OTc0MSAyLjE3MDE4IDEwLjcyNjMgMy44Mzg2NkMxMi41NTUxIDUuNTA3MTMgMTMuNjMwMyA3Ljc5NDEzIDEzLjc1NCAxMC4yNzg0TDE1LjE3MjQgMTAuMjA2NkMxNS4wMjk4IDcuMzQwMDkgMTMuNzg5MSA0LjcwMTI2IDExLjY3ODkgMi43NzYxMVoiIGZpbGw9ImJsYWNrIi8+CjxwYXRoIGQ9Ik00LjE0MjM5IDIuODc1NTJMNC4yMTM1OSA0LjMwNjM2QzUuOTE4NTkgNC4yMjAwMyA3LjU1NDg0IDQuODA4NjMgOC44MjA5NCA1Ljk2MzdDMTAuMDg3IDcuMTE4NzcgMTAuODMxNSA4LjcwMjEgMTAuOTE3IDEwLjQyMkwxMi4zMzU1IDEwLjM1MDJDMTIuMjMwOSA4LjI0ODA3IDExLjMyMTEgNi4zMTI5MyA5Ljc3MzU5IDQuOTAxMTZDOC4yMjYxMiAzLjQ4OTM4IDYuMjI2MjYgMi43NzAwNCA0LjE0MjM5IDIuODc1NTJaIiBmaWxsPSJibGFjayIvPgo8cGF0aCBkPSJNNC4yODQ3OSA1LjczNzI0TDQuMzU1OTkgNy4xNjgwN0M2LjMxMTMyIDcuMDY5MSA3Ljk4MTk4IDguNTkzMjYgOC4wODAxNSAxMC41NjU3TDkuNDk4NTkgMTAuNDkzOEM5LjM2MTE5IDcuNzMyNDQgNy4wMjIyOCA1LjU5ODYzIDQuMjg0NzkgNS43MzcyNFoiIGZpbGw9ImJsYWNrIi8+CjxwYXRoIGQ9Ik0xNy4yNjYxIDIyLjE3OTNDMTYuNTI1NiAyMi43MDIzIDE1LjQyODcgMjIuOTkxNCAxMy41Njc0IDIyLjk5MTRDMTAuMzU5NCAyMi45OTE0IDguMDExNTUgMjEuODI4NiA3LjA1NDI1IDE5LjU3NDJDNi42MDE2NiAxOC41MDg3IDYuNjQ1MjIgMTcuMzAxMSA2LjY0NTIyIDE1LjY2NzhINC41MTMyN0M0LjUxMzI3IDE3LjM5IDQuNDgzOSAxOC43NDA0IDQuOTQwNjUgMTkuOTg0MkM2LjEzODM2IDIzLjI0NyA5LjIyMjYgMjUgMTMuMzY1OSAyNUMxNy4zNzYzIDI1IDE5LjAzODIgMjMuODQ2NCAyMC4xMjE2IDIyLjE3OTNIMTcuMjY2MVoiIGZpbGw9ImJsYWNrIi8+CjxwYXRoIGQ9Ik00LjUxMjg5IDguNjEyNjFDNS42OTIzNSA4LjYxMjYxIDYuNjQ4NSA5LjU3NzExIDYuNjQ4NSAxMC43NjY5VjE1LjY2NzhINC41MTI4OVY4LjYxMjYxWiIgZmlsbD0iYmxhY2siLz4KPHBhdGggZD0iTTEzLjI2MDEgMjEuMjQ0MUMxMi4wMzU4IDIxLjI0NDEgMTAuODU3MSAyMC45MTAxIDkuODE1OTIgMjAuMTgzQzkuMDkwMTkgMTkuNjc2NSA4LjI1MDIgMTguNTMyNSA4LjI1MDIgMTYuNTkzM0M4LjI1MDIgMTIuOTk1NSAxMC4wNzIgMTEuNjgyNCAxMy43MzMyIDExLjY4MjRIMjJMMjAuMzI0NiAxMy43MzE2SDE0LjIzNTZDMTEuODE5MSAxMy43MzE2IDEwLjM4MjIgMTMuOTIxNyAxMC4zODIyIDE2LjU5MzNDMTAuMzgyMiAxNy40NzU3IDEwLjYyODkgMTguMTAzNyAxMS4xMzY3IDE4LjUxMjlDMTEuOTk0OCAxOS4yMDQ2IDEzLjY2MjggMTkuMjM0IDE0LjY4MTkgMTkuMTM0OUMxNC42ODE5IDE5LjEzNDkgMTUuMTAwMSAxNy43Nzg1IDE1LjE2OSAxNy41NTgzQzE1LjI0OTYgMTcuMzAwMyAxNS4yMTQ0IDE3LjIzODcgMTQuOTYyNyAxNy4yMzg3QzE0LjU5OTIgMTcuMjM4NyAxMy45NDU4IDE3LjIzODcgMTMuMjUyMyAxNy4yMzg3QzEyLjc2NjMgMTcuMjM4NyAxMi4yODg3IDE2Ljk5MiAxMi4yODg3IDE2LjM5OTNDMTIuMjg4NyAxNS44MjY5IDEyLjczMyAxNS40OTQ3IDEzLjM0MiAxNS40OTQ3QzE0LjM5NjQgMTUuNDk0NyAxNi41NjggMTUuNDk0NyAxNi45NzQ1IDE1LjQ5NDdDMTcuNTA3NCAxNS40OTQ3IDE4LjA1MTEgMTUuNTcxOCAxNy43NzM3IDE2LjQyMjdMMTYuMzA0NCAyMC45MTc2QzE2LjMwNDUgMjAuOTE3NyAxNS4xMDQxIDIxLjI0NDEgMTMuMjYwMSAyMS4yNDQxWiIgZmlsbD0iYmxhY2siLz4KPC9zdmc+Cg==",
+  "name": "GDevelop_Remote_Companion",
+  "previewIconUrl": "https://raw.githubusercontent.com/TheGemDev/GDevelopRemoteCompanion/refs/heads/main/img/GDevelop-Remote-logo.svg",
+  "shortDescription": "Connect your game to the GDevelop Remote app for live debugging, scene viewing, and remote control.",
+  "version": "2.0.4",
+  "description": [
+    "This extension connects your game to the [**GDevelop Remote app**](https://play.google.com/store/apps/details?id=com.gdevelop.remote) *(Android)*, enabling powerful development and debugging features directly on your mobile device, TV, or test environment. *(iOS version coming soon)*",
+    "",
+    "Once initialized, the extension allows your game to:",
+    "\t•\t✅ Send logs to the GDevelop Remote console with custom labels (e.g. info, warning, error).",
+    "\t•\t🔍 View live scene data, including variable values, Scene Info, object states, and more — directly inside the app.",
+    "\t•\t🎮 Trigger remote actions from the GDevelop Remote app (coming soon).",
+    "\t•\t⚙️ Streamline your testing workflow — especially on platforms without easy access to dev tools.",
+    "",
+    "ℹ️ To enable the connection, use the “Initialize GD Remote” action at the start of your game. You can then use additional actions like “Log To Remote” to send logs to the app.",
+    "",
+    "Perfect for developers who want a deeper look into their game while testing remotely or without opening the debugger.",
+    ""
+  ],
+  "tags": [
+    "network",
+    "tools"
+  ],
+  "authorIds": [
+    "jy7FXnGX0ZZcWfrAI9YuQaeIphi1"
+  ],
+  "dependencies": [],
+  "globalVariables": [],
+  "sceneVariables": [],
+  "eventsFunctions": [
+    {
+      "fullName": "",
+      "functionType": "Action",
+      "name": "onSceneLoaded",
+      "sentence": "",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SystemInfo::IsPreview"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": "window.runtimeScene = runtimeScene;",
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "parameters": [],
+      "objectGroups": []
+    },
+    {
+      "description": "Required once at the beginning of the scene or game. This initializes the connection to the GD Remote app.",
+      "fullName": "Initialize GD Remote",
+      "functionType": "Action",
+      "name": "Init",
+      "sentence": "Initialize GD Remote",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "console.log(\"remote is ready!!!\")",
+                "",
+                "",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ]
+        }
+      ],
+      "parameters": [],
+      "objectGroups": []
+    },
+    {
+      "description": "Send logs from your game to the GD Remote app for real-time debugging and monitoring.",
+      "fullName": "Logger",
+      "functionType": "Action",
+      "name": "Log",
+      "sentence": "Log to Remote _PARAM1_ as _PARAM2_",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": [
+            "let text = eventsFunctionContext.getArgument(\"text\");",
+            "let type = eventsFunctionContext.getArgument(\"type\");",
+            "let prefix = \"[GDevelop Remote] \";",
+            "",
+            "switch (type.toLowerCase()) {",
+            "  case \"log\":",
+            "    console.log(prefix + text);",
+            "    break;",
+            "  case \"info\":",
+            "    console.info(prefix + text);",
+            "    break;",
+            "  case \"warn\":",
+            "    console.warn(prefix + text);",
+            "    break;",
+            "  case \"error\":",
+            "    console.error(prefix + text);",
+            "    break;",
+            "  case \"debug\":",
+            "    console.debug(prefix + text);",
+            "    break;",
+            "  case \"alert\":",
+            "    alert(prefix + text);",
+            "    break;",
+            "  default:",
+            "    console.log(prefix + \"[Unknown type] \" + text);",
+            "}"
+          ],
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": true
+        }
+      ],
+      "parameters": [
+        {
+          "description": "The content you want to output (e.g., “Init done”)",
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "description": "The display method (e.g., log, error, alert)",
+          "name": "type",
+          "supplementaryInformation": "[\"log\",\"info\",\"warn\",\"error\",\"debug\",\"alert\"]",
+          "type": "stringWithSelector"
+        }
+      ],
+      "objectGroups": []
+    }
+  ],
+  "eventsBasedBehaviors": [],
+  "eventsBasedObjects": []
+}
