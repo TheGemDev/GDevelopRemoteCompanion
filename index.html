@@ -172,20 +172,22 @@
         </p> -->
       </div>
     </div>
-    <script>
-      const queryParams = new URLSearchParams(window.location.search);
-      const version = queryParams.get("version");
+ <script>
+  const queryParams = new URLSearchParams(window.location.search);
+  const version = queryParams.get("version");
 
-      const downloadBtn = document.getElementById("download-btn");
-      const baseUrl = "https://github.com/TheGemDev/GDevelopRemoteCompanion/blob/gh-pages/versions";
+  const baseUrl = "https://raw.githubusercontent.com/TheGemDev/GDevelopRemoteCompanion/gh-pages/versions";
 
-      const downloadUrl = version
-        ? `${baseUrl}/v${version}/gdevelop_remote_companion.json`
-        : `${baseUrl}/gdevelop_remote_companion.json`;
+  const downloadUrl = version
+    ? `${baseUrl}/v${version}/gdevelop_remote_companion.json`
+    : `${baseUrl}/gdevelop_remote_companion.json`;
 
-      if (downloadBtn) {
-        downloadBtn.href = downloadUrl;
-      }
-    </script>
+  const link = document.createElement("a");
+  link.href = downloadUrl;
+  link.download = "gdevelop_remote_companion.json"; // Suggested filename
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+</script>
   </body>
 </html>
