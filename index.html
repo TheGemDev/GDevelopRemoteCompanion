@@ -177,11 +177,11 @@
       const version = queryParams.get("version");
 
       const downloadBtn = document.getElementById("download-btn");
-      const baseUrl = "https://github.com/TheGemDev/GDevelopRemoteCompanion/releases/download";
+      const baseUrl = "https://github.com/TheGemDev/GDevelopRemoteCompanion/releases";
 
       const downloadUrl = version
-        ? `${baseUrl}/v${version}/gdevelop_remote_companion.json`
-        : `${baseUrl}/gdevelop_remote_companion.json`;
+        ? `${baseUrl}/download/v${version}/gdevelop_remote_companion.json`
+        : `${baseUrl}/latest/download/gdevelop_remote_companion.json`;
 
       if (downloadBtn) {
         downloadBtn.href = downloadUrl;
